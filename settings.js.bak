@@ -12,15 +12,15 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '0e92565522',
 }
 // Other
-global.owner = ['6289514100332']
+global.owner = ['6285783086201']
 global.buton = ['6285696487777777777777771452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452']
-global.premium = ['6289514100332']
+global.premium = ['6285783086201']
 global.ownername = '@Fardan'
-global.lolkey = "PrivateMeliodasKey829"
-global.packname = '@Fardan' //Wm sticker nya
-global.author = 'Ig: ____Fardan.xyz'
-global.sessionName = 'fardan' //Nih Buat Session nya 🗿
-global.linkgrupss = 'https://chat.whatsapp.com/DxOZJuGqqddDnJCxu0SFsU'
+global.lolkey = "Davidkey01"
+global.packname = '@David' //Wm sticker nya
+global.author = 'Ig: -----'
+global.sessionName = 'David' //Nih Buat Session nya 🗿
+global.linkgrupss = 'https://chat.whatsapp.com/BhwFRxBifXi0aDQUOknUTy'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
